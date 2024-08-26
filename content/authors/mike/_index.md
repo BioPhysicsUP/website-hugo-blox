@@ -21,33 +21,37 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Stark spectroscopy
+- Single-molecule spectroscopy
+- Beam quality optimisation
+- Experimental automation (technique development)
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Physics
+    institution: University of Pretoria
+    year: 2022–present
+  - course: MSc in Physics
+    institution: University of the Witwatersrand
+    year: 2022
+  - course: BSc (Hons) in Physics
+    institution: University of Pretoria
+    year: 2020
+  - course: BSc in Physics
+    institution: University of Pretoria
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:test@example.org'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:michael.lovemore98@gmail.com'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/michael-lovemore-a72893143/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -69,6 +73,7 @@ user_groups:
 - PhD Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am doing my Ph.D. in integrating Stark spectroscopy with single molecule spectroscopy.
+Very little work has been done in this regard and almost no work has been done on single
+molecule Stark spectroscopy on photosynthetic systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

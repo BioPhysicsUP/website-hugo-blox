@@ -20,36 +20,40 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
+interests:
+- Protein-ligand interaction
+- Spectroscopy
+- Photoprotection
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Postdoctoral Fellow
+    institution: University of Pretoria
+    year: 2023–present
+  - course: Postdoctoral Fellow
+    institution: Indian Institute for Science Education and Research, Kolkata
+    year: 2021–2023
+  - course: PhD in Chemistry
+    institution: National Institute of Technology, Rourkela
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:test@example.org'
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:u23991616@tuks.co.za'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=lICbA5IAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sabera-millan-aa565155/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

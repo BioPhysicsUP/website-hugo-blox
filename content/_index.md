@@ -11,7 +11,7 @@ sections:
        # Wowchemy
         #Research Group
       image:
-        filename: biophys.png
+        filename: group-photo.jpg
       text: |
         <br>
         
@@ -23,12 +23,18 @@ sections:
       title: Latest News
       subtitle:
       text: |
-        - Mamaru attended the SASBMB Congress 2024 in Polokwane from 7 to 10 July.
-        - Prof. Krüger and Francois attended SAIP 2024 in Grahamstown from 1 to 5 July.
-        - Bertus graduated with his PhD and also attended two conferences: The [Lindau
-          Nobel Laureate Meeting](
+        - Mamaru attended the [SASBMB Congress 2024](https://shorturl.at/fevx3) in Polokwane from 7 to 10 July.
+        - Prof. Krüger and Francois attended [SAIP 2024](https://shorturl.at/SEihg) in Grahamstown from 1 to 5 July.
+        - Bertus [attended](https://shorturl.at/L9OGs) two conferences: The [Lindau Nobel Laureate Meeting](
           https://www.mediatheque.lindau-nobel.org/meetings/2024
           ) and the European Photosynthesis Congress.
+        - Leonato is on a [research visit](https://shorturl.at/kWgDN) to Friedrich Alexander University Erlangen-Nürnberg.
+        - We had 4 graduates! Bertus (PhD), Francois (MSc), Emma (BSc Hons) and Sarah
+          (BSc Hons).
+
+        For more news, follow us on [X](https://x.com/TjaartKrueger), [LinkedIn](
+        https://www.linkedin.com/company/biophysics-research-group-tuks/), or [Instagram](
+        https://www.instagram.com/biophysics.up).
       
     design:
       view: compact
@@ -42,4 +48,6 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+
 ---
+

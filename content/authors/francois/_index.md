@@ -20,34 +20,36 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Single-molecule spectroscopy
+- Fluorescence correlation spectroscopy
+- Quantum optics
+- Photosynthetic light-harvesting
+- Plasmonics
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: MSc in Physics
+    institution: University of Pretoria
+    year: 2024
+  - course: BSc (Hons) in Physics
+    institution: University of Pretoria
+    year: 2022
+  - course: BSc in Physics
+    institution: University of Pretoria
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:test@example.org'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:nsfconradie@gmail.com'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/francois-conradie-136a7923b/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -69,12 +71,15 @@ user_groups:
 - PhD Students
 ---
 
-The abilities of photosynthetic light-harvesting complexes to respond to environmental stressors,
-like high light intensities, acidity, or temperature fluctuations, are very promising for advances in
-energy security, sensing, and even quantum computation. My research focus is the fluorescence
-photon statistics of light-harvesting complexes, like LHCII, and the detection of their responses to
-internal and external changes. Combining several experimental techniques, like fluorescence
-correlation spectroscopy (FCS) and time-correlated single-photon counting (TCSPC), for
-simultaneous data collection and analysis has been my focus, which shows that new insights can be
-obtained regarding the relationship between LHCII-aggregation and the natural photo-protection of
-plants.
+The abilities of photosynthetic light-harvesting complexes (LHCs) to respond to
+environmental stressors, like high light intensities, acidity, or temperature
+fluctuations, are very promising for advances in energy security, biosensing, and even
+quantum computation. My research focus is the fluorescence photon statistics of LHCs and
+the comparison of their quantum optical properties to that of semiconductor quantum dots
+(QDs). My approach is to combine several spectroscopic techniques, like fluorescence
+correlation spectroscopy (FCS) and time-correlated single-photon counting (TCSPC),
+towards unveiling sub-nanosecond photophysical processes in LHCs and QDs. Incorporation
+of plasmonic gold nanoparticles to enhance the fluorescence of LHCs and QDs is intended
+to achieve multi-picosecond time-resolution and for developing quantum biosensing
+capabilities.
+

@@ -20,31 +20,35 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Single-molecule spectroscopy
-#- Real-time feedback-driven single-particle tracking
-#- Model membranes
+interests:
+- Single particle tracking
+- Single-molecule spectroscopy
+- Interferometric scattering (iSCAT)
+- Machine learning and computer modelling
 
-#educations:
-#  courses:
-#  - course: MSc in Physics
-#    institution: University of Pretoria
-#    year: 2021
-#  - course: Visiting Student Researcher
-#    institution: Washington State University
-#    year: 2022-2023
+education:
+  courses:
+  - course: MSc in Astrophysics
+    institution: North-West University 
+    year: 2024
+  - course: BSc (Hons) in Physics
+    institution: North-West University
+    year: 2022
+  - course: BSc in Physics
+    institution: North-West University
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:bertus.mooikloof@gmail.com'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:salomon.vanniekerk@gmail.com'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/salomon-van-niekerk-0a8344242/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?hl=en&pli=1&user=zHeWc24AAAAJ
@@ -66,14 +70,13 @@ user_groups:
 - PhD Students
 ---
 
-Climate change has caused extreme heat waves to increase in intensity and frequency. This
-has a severe negative impact on crop yield and therefore food production. My project aims
-to investigate the growth response of wheat to high temperature stress, using
-hyperspectral imaging and sun-induced chlorophyll fluorescence, as well as various
-biological and chemical techniques. I aim to identify the physiological and quantum
-mechanical mechanisms of the plant’s response to heat stress, as well as plant adaptation
-strategies to heat waves. This knowledge can be used to inform the development of
-adaptive cultivation techniques to mitigate yield loss in high temperature conditions.
-This project is an exciting look into the intersection between physics, biology and
-chemistry and will investigate the effects of non-trivial physics in the context of a
-complex biological system.
+There are multiple ways of tracking a single molecule/particle using light. At present, a
+few of these techniques require the tracked molecule to have a fluorescence mechanism,
+but this limits the set of particles that can be tracked as not all single molecules
+fluoresce. A technique not limited by this requirement is interferometric scattering,
+iSCAT. Depending only on the particle in question’s ability to scatter light, this
+technique broadens the set of particles that can be studied. This technique is not
+without its own limits. One of which is the immense problem that signal noise presents.
+Machine learning and other modeling processes will be used to develop a iSCAT set-up that
+can do single particle tracking in real time over three dimensions.
+

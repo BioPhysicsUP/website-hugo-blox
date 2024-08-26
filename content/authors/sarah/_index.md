@@ -20,31 +20,30 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Single-molecule spectroscopy
-#- Real-time feedback-driven single-particle tracking
-#- Model membranes
+interests:
+- Quantum biology
+- PAM Fluorometry
+- Hyperspectral imaging
+- Climate change
+- Crop production
 
-#educations:
-#  courses:
-#  - course: MSc in Physics
-#    institution: University of Pretoria
-#    year: 2021
-#  - course: Visiting Student Researcher
-#    institution: Washington State University
-#    year: 2022-2023
+education:
+  courses:
+  - course: BSc (Hons) in Physics
+    institution: University of Pretoria
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
+social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:bertus.mooikloof@gmail.com'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sarah-burnett-2814a1315/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?hl=en&pli=1&user=zHeWc24AAAAJ

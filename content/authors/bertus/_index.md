@@ -24,15 +24,26 @@ interests:
 - Single-molecule spectroscopy
 - Real-time feedback-driven single-particle tracking
 - Model membranes
+- lala
 
-educations:
+education:
   courses:
+  - course: Postdoctral Fellow
+    institution: University of Pretoria
+    year: 2024–present
+  - course: PhD in Physics
+    institution: University of Pretoria
+    year: 2024
+  - course: Visiting Student Researcher
+    institution: Washington State University
+    year: 2022–2023
   - course: MSc in Physics
     institution: University of Pretoria
     year: 2021
-  - course: Visiting Student Researcher
-    institution: Washington State University
-    year: 2022-2023
+
+experience:
+   - title: blkaldsfdfb
+     company: dkfdkfj
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

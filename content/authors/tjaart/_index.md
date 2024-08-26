@@ -24,20 +24,20 @@ interests:
 - Ultrafast Spectroscopy 
 - Superresolution Imaging
 
-educations:
+education:
   courses:
+  - course: Associate Professor
+    institution: University of Pretoria
+    year: 2017–present
+  - course: Senior Lecturer
+    institution: University of Pretoria
+    year: 2013–2017
+  - course: Postdoctoral Fellow
+    institution: Vrije Universiteit Amsterdam
+    year: 2011–2013
   - course: PhD in Biophysics
     institution: Vrije Universiteit Amsterdam
     year: 2011
-  - course: Postdoctoral Fellowship
-    institution: Vrije Universiteit Amsterdam
-    year: 2011-2013
-  - course: Senior Lecturer
-    institution: University of Pretoria
-    year: 2013-2017
-  - course: Associate Professor
-    institution: University of Pretoria
-    year: 2017-present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
