@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'tjaart.kruger@up.ac.za'
+  link: 'mailto:tjaart.kruger@up.ac.za'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/TjaartKrueger

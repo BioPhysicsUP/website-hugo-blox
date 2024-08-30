@@ -19,3 +19,6 @@ main:
   - name: Student Projects
     url: projects
     weight: 50
+  - name: Contact Us
+    url: contact
+    weight: 60

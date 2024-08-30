@@ -79,5 +79,4 @@ the system to another part.
 
 That’s right: we perform spectroscopy on one molecule at a time! This approach avoids all
 sorts of averaging processes, which reveals a lot of new information. We have built (from
-scratch) the first single molecule spectroscopy setup on the continent! See the articles
-here and here.
+scratch) the first single molecule spectroscopy setup on the continent!
