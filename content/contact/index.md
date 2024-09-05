@@ -27,11 +27,19 @@ sections:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
       #appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+      contact_links:
+        - icon: linkedin
+          icon_pack: fab
+          name: LinkedIn
+          link: 'https://www.linkedin.com/company/biophysics-research-group-tuks/'
+        - icon: instagram
+          icon_pack: fab
+          name: Instagram
+          link: 'https://www.instagram.com/biophysics.up'
+        - icon: twitter
+          icon_pack: fab
+          name: X
+          link: 'https://x.com/TjaartKrueger'
     
       # Automatically link email and phone or display as text?
       autolink: true
