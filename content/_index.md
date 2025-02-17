@@ -61,17 +61,10 @@ sections:
       image:
         filename: group-photo.jpg
       text: |
+        - Prof. Krüger went on a three-month sabbatical (October to December 2024) to the University of Bayreuth where he worked with Prof. Jürgen Köhler.
+        - Towan, Bertus, Francois and Michael attended the [ICO Congress 2024](https://shorturl.at/7ntht) in Cape Town from 21 to 25 October.
         - Our [paper](https://doi-org.uplib.idm.oclc.org/10.1016/j.bpr.2024.100173) about
-          our [SMS software](http://github.com/BioPhysicsUP/Full_SMS) has been published
-          in *Biophysical Reports*.
-        - Mamaru attended the [SASBMB Congress 2024](https://shorturl.at/fevx3) in Polokwane from 7 to 10 July.
-        - Prof. Krüger and Francois attended [SAIP 2024](https://shorturl.at/SEihg) in Grahamstown from 1 to 5 July.
-        - Bertus [attended](https://shorturl.at/L9OGs) two conferences: The [Lindau Nobel Laureate Meeting](
-          https://www.mediatheque.lindau-nobel.org/meetings/2024
-          ) and the European Photosynthesis Congress.
-        - Leonato is on a [research visit](https://shorturl.at/kWgDN) to Friedrich Alexander University Erlangen-Nürnberg.
-        - We had 4 graduates! Bertus (PhD), Francois (MSc), Emma (BSc Hons) and Sarah
-          (BSc Hons).
+          our [SMS software](http://github.com/BioPhysicsUP/Full_SMS) was featured on the cover of *Biophysical Reports*!
 
         For more news, follow us on [X](https://x.com/TjaartKrueger), [LinkedIn](
         https://www.linkedin.com/company/biophysics-research-group-tuks/), or [Instagram](
