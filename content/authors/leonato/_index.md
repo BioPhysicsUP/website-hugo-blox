@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Leonato Nchinda
+title: Leonato Tambua Nchinda
 
 # Username (this should match the folder name)
 authors:
@@ -20,31 +20,34 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Femtosecond transient absorption spectroscopy 
+- Photophysics of polymers and organic solar cells
+- Bio-inspired solar cells
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: MSc in Physics, 
+    institution: University of Buea, Cameroon
+    year: 2020
+  - course: DAAD (German Academic Exchange Service) Research Fellow
+    institution: Friedrich Alexander University Erlangen-Nuremberg, Germany.
+    year: 2024
+  - course: PhD in Physics, 
+    institution: University of Pretoria
+    year: 2021-present
 #
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:test@example.org'
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'nchindaleonato@gmail.com'
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://www.linkedin.com/in/leonato-tambua-nchinda-996690319/' 
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -69,28 +72,14 @@ user_groups:
 - PhD Students
 ---
 
-Photosynthesis, an indispensable process, is the most important biological process on
-earth. By liberating oxygen and consuming carbon dioxide, it has transformed the world
-into the hospitable environment we have today. The light-harvesting protein complexes of
-photosynthetic organisms are intriguing molecular machines. They use the principles of
-quantum mechanics and switch between light-harvesting and photoprotective functions. The
-photoprotective state is established through a complex mechanism known as
-non-photochemical quenching (NPQ) during which excitation energy is thermally dissipated
-in a clean and safe manner. Since the photosynthetic light-harvesting process is
-dominated by the laws of quantum mechanics, precise control of the switch between
-light-harvesting and NPQ demands a technique based on quantum control; an approach that
-has not yet been utilised. In this light, I am using laser coherent control to observe
-and actively manipulate the course of physical and chemical processes immediately after
-photoexcitation of LHCII, the main light-harvesting complex of plants. Through the
-wavefront shaping of ultrashort laser pulses under the instruction of a genetic
-algorithm, the quenching process can be optimised or minimised. The 4f setup, which forms
-part of an ultrafast transient absorption spectroscopy setup, contains a Spatial Light
-Modulator (SLM), which will be used for shaping the pump pulse in phase and amplitude,
-while a genetic algorithm will be implemented to manipulate the laser pulses until an
-optimal pulse shape is achieved. At the end of this interesting adventure, we believe
-that the results obtained will be able to guide agricultural biotechnologies to develop
-high-light tolerant crops through genetic modification. Finally, with the advent of
-Biomimicry, a perfect understanding of the fundamental properties of these intriguing
-molecular machines (like LHCII), will serve as a great inspiration for finding green,
-sustainable energy solutions for our planet.
+As a young research scientist, I have dedicated my research efforts on the highly dynamic
+and ever-evolving field of organic solar cells (OSCs). My Ph.D project aims at
+investigating the impact of thermal stress on the morphology and ultrafast charge carrier
+dynamics within a series of terpolymers, designed for OSC applications. To achieve this,
+I employ cutting-edge ultrafast femtosecond transient absorption (fs-TA) spectroscopy
+alongside morphological characterization techniques to unveil crucial insights into the
+efficiency and viability of OSCs, which hold great potential for sustainable energy
+solutions. My research therefore seeks to unravel the ultrafast charge carrier dynamics
+and underlying molecular mechanisms governing these prospective OSC active layers.
+
 
