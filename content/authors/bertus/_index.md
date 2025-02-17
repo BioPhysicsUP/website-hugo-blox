@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: Postdoctral Fellow
+  - course: Postdoctoral Fellow
     institution: University of Pretoria
     year: 2024–present
   - course: PhD in Physics
