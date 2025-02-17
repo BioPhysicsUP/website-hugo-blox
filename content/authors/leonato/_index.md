@@ -31,7 +31,7 @@ education:
     institution: University of Buea, Cameroon
     year: 2020
   - course: DAAD (German Academic Exchange Service) Research Fellow
-    institution: Friedrich Alexander University Erlangen-Nuremberg, Germany.
+    institution: Friedrich Alexander University Erlangen-Nuremberg, Germany
     year: 2024
   - course: PhD in Physics, 
     institution: University of Pretoria

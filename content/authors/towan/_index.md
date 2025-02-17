@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Spectral modelling
+- Laser abberation correction
+- Open quantum systems
+- Single-molecule spectroscopy
+- Use of computational optimisation methods in biology
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: Postdoctoral Fellow
+    institution: University of Pretoria
+    year: 2024–present
+  - course: PhD in Physics
+    institution: University of Pretoria
+    year: 2023
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,14 +69,11 @@ user_groups:
 - Postdoctoral Fellows
 ---
 
-During the process of photosynthesis, light energy is absorbed by pigment molecules that
-are embedded in protein complexes called light-harvesting complexes (LHCs). In plants,
-the LHCs, in turn, form part of two photosystems (called PSI and PSII). My research
-project focuses on understanding the energy flow and regulation, after photon absorption,
-in PSI, and in three separable LHCs (called CP29, CP24, and CP26) of the more complex
-PSII. I approach my research using a combination of experimental techniques and computer
-simulation. I enjoy setting up models to simulate molecular energy transfer events, as
-this process requires one to think critically in order to gain a fundamental
-understanding of our complex, beautiful world. Biophysics offers the best of two
-fields: the complex beauty of Biology and the rigour of Physics.
-
+My research focuses on modelling optical spectroscopic results (mainly of photosynthetic
+light-harvesting complexes). By modelling the spectra of light-harvesting complexes, we
+can learn a lot about the quantum design principles that make the initial phase of
+photosynthesis so effective. I approach my research using a combination of experimental
+techniques and computer simulation. I enjoy setting up models to simulate molecular
+energy transfer events, as this process requires one to think critically in order to gain
+a fundamental understanding of our complex, beautiful world. Biophysics offers the best
+of two fields: the complex beauty of biology and the rigor of physics.
