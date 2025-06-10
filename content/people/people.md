@@ -27,15 +27,6 @@ design:
   show_social: true
 ---
 
----
-widget: blank
-headless: true
-active: true
-weight: 50  # Adjust to place it after the people section
-title: ""
-design:
-  columns: "1"
----
 
 This is the extra text you want to appear at the bottom of the People page.
 
