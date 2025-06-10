@@ -26,20 +26,4 @@ design:
   show_role: false
   show_social: true
 ---
----
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
-headless: true
-weight: 20
-
-title: Alumni
-subtitle:
-
-design:
-  columns: "1"
----
-
-- Cosmas Mafusire
-
-
 
