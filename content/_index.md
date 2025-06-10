@@ -61,10 +61,9 @@ sections:
       image:
         filename: group-photo.jpg
       text: |
+        - Leonato [graduated](https://shorturl.at/pXcbU) with his PhD, and Patrick with his MSc.
+      	- Towan lectured at the [33rd Chris Engelbrecht Summer School](https://shorturl.at/fpc0E), held on 7–14 April 2025 in Stellenbosch.
         - Prof. Krüger went on a three-month sabbatical (October to December 2024) to the University of Bayreuth where he worked with Prof. Jürgen Köhler.
-        - Towan, Bertus, Francois and Michael attended the [ICO Congress 2024](https://shorturl.at/7ntht) in Cape Town from 21 to 25 October.
-        - Our [paper](https://doi-org.uplib.idm.oclc.org/10.1016/j.bpr.2024.100173) about
-          our [SMS software](http://github.com/BioPhysicsUP/Full_SMS) was featured on the cover of *Biophysical Reports*!
 
         For more news, follow us on [X](https://x.com/TjaartKrueger), [LinkedIn](
         https://www.linkedin.com/company/biophysics-research-group-tuks/), or [Instagram](
