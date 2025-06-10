@@ -27,7 +27,6 @@ design:
   show_social: true
 ---
 
----
 widget: blank
 headless: true
 active: true
