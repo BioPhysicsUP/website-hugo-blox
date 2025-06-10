@@ -62,7 +62,7 @@ sections:
         filename: group-photo.jpg
       text: |
         - Leonato [graduated](https://shorturl.at/pXcbU) with his PhD, and Patrick with his MSc.
-      	- Towan lectured at the [33rd Chris Engelbrecht Summer School](https://shorturl.at/fpc0E), held on 7–14 April 2025 in Stellenbosch.
+        - Towan lectured at the [33rd Chris Engelbrecht Summer School](https://shorturl.at/fpc0E), held on 7–14 April 2025 in Stellenbosch.
         - Prof. Krüger went on a three-month sabbatical (October to December 2024) to the University of Bayreuth where he worked with Prof. Jürgen Köhler.
 
         For more news, follow us on [X](https://x.com/TjaartKrueger), [LinkedIn](
