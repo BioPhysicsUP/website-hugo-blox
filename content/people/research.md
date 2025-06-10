@@ -6,8 +6,4 @@ title: ""
 design:
   background: none
 ---
-
-<div class="custom-text">
-  <h3>Extra Notes</h3>
-  <p>This is some extra text below the People section.</p>
-</div>
+is is some extra text below the People section.
