@@ -13,6 +13,6 @@ design:
 #Towan, Francois, Esmari, Tatjana, Bertus, Francois, Emma, Sarah.
 ---
 
-Cosmas Mafusire
-Sabera Millan
+- Cosmas Mafusire
+- Sabera Millan
 
