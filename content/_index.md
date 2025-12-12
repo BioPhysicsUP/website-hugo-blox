@@ -59,7 +59,7 @@ sections:
       title: Latest News
       subtitle:
       image:
-        filename: group-photo.jpg
+        filename: biophys.jpg
       text: |
         - Newaye, Simenew and Gizaw [visited the group](https://shorturl.at/4fxFA).
         - Francois and Bertus attended the [PicoQuant Single-Molecule Workshop](https://shorturl.at/VwLOq).
