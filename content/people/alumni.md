@@ -12,6 +12,7 @@ design:
 
 ---
 
+- Joshua Botha
 - Cosmas Mafusire
 - Sabera Millan
 - Michal Gwizdala

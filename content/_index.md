@@ -61,10 +61,11 @@ sections:
       image:
         filename: group-photo.jpg
       text: |
-        - Leonato [graduated](https://shorturl.at/pXcbU) with his PhD, and Patrick with his MSc.
-        - Towan lectured at the [33rd Chris Engelbrecht Summer School](https://shorturl.at/fpc0E), held on 7–14 April 2025 in Stellenbosch.
-        - Prof. Krüger went on a three-month sabbatical (October to December 2024) to the University of Bayreuth where he worked with Prof. Jürgen Köhler.
-
+        - Newaye, Simenew and Gizaw [visited the group](https://shorturl.at/4fxFA).
+        - Francois and Bertus attended the [PicoQuant Single-Molecule Workshop](https://shorturl.at/VwLOq).
+        - Joshua graduated with his PhD.
+        - Kelsey Everts [visited the group](https://shorturl.at/XBGUQ).
+       
         For more news, follow us on [X](https://x.com/TjaartKrueger), [LinkedIn](
         https://www.linkedin.com/company/biophysics-research-group-tuks/), or [Instagram](
         https://www.instagram.com/biophysics.up).
