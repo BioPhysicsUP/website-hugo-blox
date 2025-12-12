@@ -61,7 +61,7 @@ sections:
       image:
         filename: group-photo.jpg
       text: |
-        - Newaye, Simenew and Gizaw [visited the group](https://shorturl.at/4fxFA).
+        - Newaye, Simenew and Gizaw [visited the group](https://shorturl.at/4fxFA) .
         - Francois and Bertus attended the [PicoQuant Single-Molecule Workshop](https://shorturl.at/VwLOq).
         - Joshua graduated with his PhD.
         - Kelsey Everts [visited the group](https://shorturl.at/XBGUQ).
