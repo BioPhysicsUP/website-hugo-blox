@@ -44,7 +44,7 @@ sections:
 
         </style>
         <div class="container">
-            <img src="group-photo.jpg" alt="Description of Image">
+            <img src="biophys.jpg" alt="Description of Image">
             <div class="text">
                 Welcome to the Biophysics Research Group at the <a
                 href="https://www.up.ac.za/">University of Pretoria</a>. 
