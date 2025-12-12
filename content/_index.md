@@ -44,7 +44,7 @@ sections:
 
         </style>
         <div class="container">
-            <img src="group-photo.jpg" alt="Description of Image">
+            <img src="biophys.jpg" alt="Description of Image">
             <div class="text">
                 Welcome to the Biophysics Research Group at the <a
                 href="https://www.up.ac.za/">University of Pretoria</a>. 
@@ -59,7 +59,7 @@ sections:
       title: Latest News
       subtitle:
       image:
-        filename: group-photo.jpg
+        filename: biophys.jpg
       text: |
         - Newaye, Simenew and Gizaw [visited the group](https://shorturl.at/4fxFA).
         - Francois and Bertus attended the [PicoQuant Single-Molecule Workshop](https://shorturl.at/VwLOq).
